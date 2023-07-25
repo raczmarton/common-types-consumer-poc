@@ -1,0 +1,30 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@raczmarton/common-types-poc':
+    specifier: ^1.0.2
+    version: 1.0.2
+  '@trpc/server':
+    specifier: ^10.35.0
+    version: 10.35.0
+  zod:
+    specifier: ^3.21.4
+    version: 3.21.4
+
+packages:
+
+  /@raczmarton/common-types-poc@1.0.2:
+    resolution: {integrity: sha512-uinZrTNj1AaFTY96TxfMSbl3IVfYXGcgyeIxbFmNK6mAzx4L71jP98k31LKBOcrcQ2rMxWAKyO1yosuwI5Dv3g==, tarball: https://npm.pkg.github.com/download/@raczmarton/common-types-poc/1.0.2/0f59f0fa430ceaed2cb1dbf601811dfe8cd219c8}
+    dev: false
+
+  /@trpc/server@10.35.0:
+    resolution: {integrity: sha512-UntbE9gG+kB2nEwuJ0hw7AmQuRWw67voKaVBPBA7Ow6+aGZc00gva7015Ey5BT7Qf1wq7xJMLUdgw4QiVU+VpQ==}
+    dev: false
+
+  /zod@3.21.4:
+    resolution: {integrity: sha512-m46AKbrzKVzOzs/DZgVnG5H55N1sv1M8qZU3A8RIKbs3mrACDNeIOeilDymVb2HdmP8uwshOCF4uJ8uM9rCqJw==}
+    dev: false

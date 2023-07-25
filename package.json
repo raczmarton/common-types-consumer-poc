@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@raczmarton/common-types-poc": "^1.0.2",
+    "@trpc/server": "^10.35.0",
+    "zod": "^3.21.4"
+  }
 }
